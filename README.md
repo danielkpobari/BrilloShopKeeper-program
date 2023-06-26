@@ -1,12 +1,12 @@
 # SHOPKEEPER PROGRAM
 
-A Java program that allows the shopkeeper to make pancakes, and the 3 users can eat the pancakes simultaneously. A single user can eat maximum 5 pancakes within 30 seconds. Also, the shopkeeper can make a maximum of 12 pancakes every 30 seconds. The system should randomly decide the number of pancakes that each of the 3 users want to eat in the 30 second’s period; but cannot exceed the maximum 5 pancakes rule.
+A  Java program that allows the shopkeeper to make pancakes, and the 3 users can eat the pancakes simultaneously. A single user can eat maximum 5 pancakes within 30 seconds. Also, the shopkeeper can make a maximum of 12 pancakes every 30 seconds. The system should randomly decide the number of pancakes that each of the 3 users want to eat in the 30 second’s period; but cannot exceed the maximum 5 pancakes rule.
 
 
-## Technologies used:
+## Technologies used: Java 17.
 
-Java 17.
-How to run the program:
+
+### How to run the program:
 1.	Clone the repository
 git clone https://github.com/danielkpobari/BrilloShopKeeper-program.git
 2. Build the project
