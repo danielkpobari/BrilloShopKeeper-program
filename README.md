@@ -4,7 +4,10 @@ Technologies used:
 Java 17.
 How to run the program:
 1.	Clone the repository
-git clone
+git clone https://github.com/danielkpobari/BrilloShopKeeper-program.git
+2. Build the project
+3. Run the shopKeepernonConcurrentPancake class
+4. Run the shopKeeperConcurrentPancake class
 
 
 
